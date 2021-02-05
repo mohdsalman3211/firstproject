@@ -1,16 +1,13 @@
 .nav_container{
 
-    /* background-color:lightsteelblue; */
     display: flex;
     justify-content: center;
-    /* align-items: center; */
 }
 
 .navbar{
     width:80%;
     height: 10vh;
-    /* display: flex; */
-    /* background-color:#ffffff; */
+ 
     justify-content: space-between;
 }
 .name{
