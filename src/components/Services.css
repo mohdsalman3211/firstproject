@@ -3,7 +3,6 @@
     width: 85%;
     height: 100%;
     margin: auto;
-   /* background-color: royalblue; */
    display: flex;
    flex-wrap: wrap; 
    justify-content: space-evenly;
@@ -31,7 +30,6 @@ p{
     padding: 5px 20px;
     border: 1px solid #4db8ff;
     color:#fff;
-    /* border-radius: 5px; */
     font-size: .9rem;
     transition: 0.5s;
 }
